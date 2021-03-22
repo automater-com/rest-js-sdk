@@ -1,0 +1,30 @@
+{
+  "name": "@automater/rest-js-sdk",
+  "version": "1.0.0",
+  "description": "JS SDK for Automater RESTful API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "qs": "^6.9.4",
+    "validator": "^13.5.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/automater-pl/rest-js-sdk.git"
+  },
+  "keywords": [
+    "automater",
+    "rest",
+    "sdk"
+  ],
+  "bugs": {
+    "url": "https://github.com/automater-pl/rest-js-sdk/issues"
+  },
+  "homepage": "https://github.com/automater-pl/rest-js-sdk#readme"
+}
